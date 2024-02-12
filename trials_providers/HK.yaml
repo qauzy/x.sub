@@ -93,14 +93,14 @@ proxies:
 - {name: 🇭🇰 香港隧道0-NF-TK-GP - giao云, server: 189hz01.xn--fiqa108dbd596g538d.com, port: 25981, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1128hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: hz.888898.beauty, port: 35359, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1007hk1.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港隧道3-NF-TK-GPT - giao云, server: 1.76po.com, port: 36251, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1007hk3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 01  - Cyanmori, server: acc.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: vdPwsYYWtDHftIGE, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: acc.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: vdPwsYYWtDHftIGE, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: acc.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: vdPwsYYWtDHftIGE, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: acc.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: vdPwsYYWtDHftIGE, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: acc.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: vdPwsYYWtDHftIGE, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: acc.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: vdPwsYYWtDHftIGE, udp: true}
-- {name: 🇭🇰 香港07 - Cyanmori, server: acc.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: vdPwsYYWtDHftIGE, udp: true}
-- {name: 🇭🇰 香港08 - Cyanmori, server: acc.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: vdPwsYYWtDHftIGE, udp: true}
+- {name: 🇭🇰 香港 01  - Cyanmori, server: acc.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: soZlT7f8N1w9iKya, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: acc.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: soZlT7f8N1w9iKya, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: acc.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: soZlT7f8N1w9iKya, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: acc.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: soZlT7f8N1w9iKya, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: acc.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: soZlT7f8N1w9iKya, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: acc.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: soZlT7f8N1w9iKya, udp: true}
+- {name: 🇭🇰 香港07 - Cyanmori, server: acc.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: soZlT7f8N1w9iKya, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: acc.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: soZlT7f8N1w9iKya, udp: true}
 - {name: 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk01.qiaqia.win, port: 8791, type: vmess, uuid: aadf5668-3d4a-3590-b938-f9bbffbd7ddd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk01.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: bhk01.qiaqia.win, port: 8080, type: vmess, uuid: aadf5668-3d4a-3590-b938-f9bbffbd7ddd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk01.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: bhk137.qiaqia.win, port: 8080, type: vmess, uuid: aadf5668-3d4a-3590-b938-f9bbffbd7ddd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk137.qiaqia.win}}, udp: true}
