@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 37ec4962-89f3-3868-aa37-34620eb9d436, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 37ec4962-89f3-3868-aa37-34620eb9d436, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 37ec4962-89f3-3868-aa37-34620eb9d436, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 37ec4962-89f3-3868-aa37-34620eb9d436, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 37ec4962-89f3-3868-aa37-34620eb9d436, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 70285ec1-98a8-3d7b-8fb3-ef1b948e4e95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 70285ec1-98a8-3d7b-8fb3-ef1b948e4e95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 70285ec1-98a8-3d7b-8fb3-ef1b948e4e95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 70285ec1-98a8-3d7b-8fb3-ef1b948e4e95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 70285ec1-98a8-3d7b-8fb3-ef1b948e4e95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -119,7 +119,7 @@ proxies:
 - {name: 🇹🇷 土耳其 原生｜隧道 01 - 爱猫论坛, server: 120.195.181.54, port: 36009, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: sahng5.594888.xyz, port: 36016, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: sahng1.594888.xyz, port: 36017, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 19e68dc0-065a-4258-846d-a37d2248888a, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: aa4bca1f-d886-4f0d-bd93-bdba3c991ccd, udp: true}
 - {name: 🇰🇷 vip1 韩国-01 - FastFly, server: gdct001.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 8d059a2b-6985-42f6-a67d-c5a68e3d2d97, udp: true}
 - {name: 🇰🇷 vip1 韩国-02 - FastFly, server: shcm002.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 8d059a2b-6985-42f6-a67d-c5a68e3d2d97, udp: true}
 - {name: 🇰🇷 vip1 韩国-03 - FastFly, server: gdct003.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 8d059a2b-6985-42f6-a67d-c5a68e3d2d97, udp: true}
