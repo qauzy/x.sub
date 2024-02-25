@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: node000001.likeone.lol, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: d901dd20-6ac6-4682-8e13-828f1929f261, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: node000003.likeone.lol, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: d901dd20-6ac6-4682-8e13-828f1929f261, udp: true}
-- {name: 🇯🇵 vip1 日本-03 - FastFly, server: node000005.likeone.lol, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: d901dd20-6ac6-4682-8e13-828f1929f261, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: node000001.likeone.lol, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: d901dd20-6ac6-4682-8e13-828f1929f261, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: node000003.likeone.lol, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: d901dd20-6ac6-4682-8e13-828f1929f261, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: node000005.likeone.lol, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: d901dd20-6ac6-4682-8e13-828f1929f261, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: node000001.likeone.lol, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: cb119e3f-0980-4828-8a32-022288ea03a3, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: node000003.likeone.lol, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: cb119e3f-0980-4828-8a32-022288ea03a3, udp: true}
+- {name: 🇯🇵 vip1 日本-03 - FastFly, server: node000005.likeone.lol, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: cb119e3f-0980-4828-8a32-022288ea03a3, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: node000001.likeone.lol, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: cb119e3f-0980-4828-8a32-022288ea03a3, udp: true}
+- {name: 🇯🇵 vip1 日本-07 - FastFly, server: node000003.likeone.lol, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: cb119e3f-0980-4828-8a32-022288ea03a3, udp: true}
+- {name: 🇯🇵 vip1 日本-08 - FastFly, server: node000005.likeone.lol, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: cb119e3f-0980-4828-8a32-022288ea03a3, udp: true}
