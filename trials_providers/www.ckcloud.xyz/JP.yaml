@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: node000005.likeone.lol, port: 10327, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: node000001.likeone.lol, port: 10327, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: node000003.likeone.lol, port: 10327, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: node000005.likeone.lol, port: 16483, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: node000001.likeone.lol, port: 16483, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: node000003.likeone.lol, port: 16483, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: node000005.likeone.lol, port: 10327, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: node000001.likeone.lol, port: 10327, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: node000003.likeone.lol, port: 10327, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: node000005.likeone.lol, port: 16483, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: node000001.likeone.lol, port: 16483, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: node000003.likeone.lol, port: 16483, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}

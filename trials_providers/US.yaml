@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: e3eb837e-1f22-33fc-bc4e-fee7b3ac9c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: e3eb837e-1f22-33fc-bc4e-fee7b3ac9c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: e0f4e7c6-61a0-3074-8cee-58781ed6ab59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: e0f4e7c6-61a0-3074-8cee-58781ed6ab59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 1.76po.com, port: 16325, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-02 | 2X - 凌云网络, server: 1.76po.com, port: 23390, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 1.76po.com, port: 15014, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -130,13 +130,13 @@ proxies:
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: node000001.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: e9c51fe7-d448-4682-ad70-1a77d2f0d5ab, udp: true}
 - {name: 🇺🇸 vip1 美国-12 - FastFly, server: node000003.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: e9c51fe7-d448-4682-ad70-1a77d2f0d5ab, udp: true}
 - {name: 🇺🇸 vip1 美国-13 - FastFly, server: node000005.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: e9c51fe7-d448-4682-ad70-1a77d2f0d5ab, udp: true}
-- {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: node000001.likeone.lol, port: 48560, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: node000003.likeone.lol, port: 48560, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: node000005.likeone.lol, port: 48560, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: node000005.likeone.lol, port: 10658, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: node000003.likeone.lol, port: 10658, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB, server: node000001.likeone.lol, port: 10658, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: node000005.likeone.lol, port: 26681, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: node000003.likeone.lol, port: 26681, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: node000001.likeone.lol, port: 26681, type: trojan, password: 738dffdd-a66b-42c0-9d25-585fb2e1871c, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: node000001.likeone.lol, port: 48560, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: node000003.likeone.lol, port: 48560, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: node000005.likeone.lol, port: 48560, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: node000005.likeone.lol, port: 10658, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: node000003.likeone.lol, port: 10658, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB, server: node000001.likeone.lol, port: 10658, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: node000005.likeone.lol, port: 26681, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: node000003.likeone.lol, port: 26681, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: node000001.likeone.lol, port: 26681, type: trojan, password: bc2505cc-8efc-4472-a922-1b7388e7b139, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: d66e90e4-4d3f-4f58-bdcc-15025cb9365f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
