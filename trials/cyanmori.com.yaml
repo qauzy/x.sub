@@ -32,7 +32,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港 01  - Cyanmori
+  - 🇭🇰 香港01  - Cyanmori
   - 🇭🇰 香港02 - Cyanmori
   - 🇭🇰 香港03 - Cyanmori
   - 🇭🇰 香港04 - Cyanmori
@@ -125,7 +125,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港 01  - Cyanmori
+  - 🇭🇰 香港01  - Cyanmori
   - 🇭🇰 香港02 - Cyanmori
   - 🇭🇰 香港03 - Cyanmori
   - 🇭🇰 香港04 - Cyanmori
@@ -149,7 +149,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 香港 01  - Cyanmori
+  - 🇭🇰 香港01  - Cyanmori
   - 🇭🇰 香港02 - Cyanmori
   - 🇭🇰 香港03 - Cyanmori
   - 🇭🇰 香港04 - Cyanmori
@@ -239,7 +239,7 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 香港 01  - Cyanmori, server: acc.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: MbdUFrDdI38Vhggw, udp: true}
+- {name: 🇭🇰 香港01  - Cyanmori, server: acc.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: MbdUFrDdI38Vhggw, udp: true}
 - {name: 🇭🇰 香港02 - Cyanmori, server: acc.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: MbdUFrDdI38Vhggw, udp: true}
 - {name: 🇭🇰 香港03 - Cyanmori, server: acc.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: MbdUFrDdI38Vhggw, udp: true}
 - {name: 🇭🇰 香港04 - Cyanmori, server: acc.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: MbdUFrDdI38Vhggw, udp: true}
