@@ -59,9 +59,9 @@ proxies:
 - {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 60293, type: trojan, password: 1b5ec43d-ee2b-4d5d-b5db-3c10208de459, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 60293, type: trojan, password: 1b5ec43d-ee2b-4d5d-b5db-3c10208de459, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 60293, type: trojan, password: 1b5ec43d-ee2b-4d5d-b5db-3c10208de459, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: aff497ac-fcc4-4e77-a123-41b0a6b636bb, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: aff497ac-fcc4-4e77-a123-41b0a6b636bb, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: aff497ac-fcc4-4e77-a123-41b0a6b636bb, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 75aeece4-ca85-4a67-ac4a-6b884e9c0e4e, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 75aeece4-ca85-4a67-ac4a-6b884e9c0e4e, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 75aeece4-ca85-4a67-ac4a-6b884e9c0e4e, udp: true}
 - {name: 🇰🇷 韩国 01 - V2Link VPN, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇰🇷 韩国 02 - V2Link VPN, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇰🇷 韩国 03 - V2Link VPN, server: host-028.crazyspeed.xyz, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
@@ -146,8 +146,8 @@ proxies:
 - {name: 🇹🇷 土耳其 原生｜隧道 01 - 爱猫论坛, server: 120.195.181.54, port: 36009, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: sahng5.594888.xyz, port: 36016, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: sahng1.594888.xyz, port: 36017, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 6c17bb69-1080-4d54-96f9-33ccd6e58738, udp: true}
-- {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 12311, type: trojan, password: 6c17bb69-1080-4d54-96f9-33ccd6e58738, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 676b40bf-6453-4e39-875a-7c120d08b0e9, udp: true}
+- {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 12311, type: trojan, password: 676b40bf-6453-4e39-875a-7c120d08b0e9, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, udp: true}
 - {name: 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, udp: true}
 - {name: 合作or问题请发工单，三小时处理一次 - giao云, server: 9.9.9.9, port: 33335, type: ss, cipher: chacha20-ietf-poly1305, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, udp: true}
