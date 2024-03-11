@@ -34,8 +34,8 @@ proxies:
 - {name: 🇭🇰 香港 08 - V2Link VPN, server: host-008.crazyspeed.xyz, port: 30508, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 09 - V2Link VPN, server: host-009.crazyspeed.xyz, port: 30509, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 10 - V2Link VPN, server: host-010.crazyspeed.xyz, port: 30510, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: cb609647-20c6-3d8f-9737-650611dc692f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: cb609647-20c6-3d8f-9737-650611dc692f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: ec5734f1-2362-3c72-8795-3ed80aaa1463, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: ec5734f1-2362-3c72-8795-3ed80aaa1463, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: gcdddd0001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 82448576-878f-4bd4-a054-74ab63db03ff, udp: true}
 - {name: 🇭🇰 vip1 香港-02 - FastFly, server: gcdddd0003.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 82448576-878f-4bd4-a054-74ab63db03ff, udp: true}
 - {name: 🇭🇰 vip1 香港-03 - FastFly, server: gcdddd0005.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 82448576-878f-4bd4-a054-74ab63db03ff, udp: true}
