@@ -1,22 +1,22 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: RhZWmt39pvXjzVMJ, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: RhZWmt39pvXjzVMJ, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: RhZWmt39pvXjzVMJ, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: RhZWmt39pvXjzVMJ, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: RhZWmt39pvXjzVMJ, udp: true}
-- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: RhZWmt39pvXjzVMJ, udp: true}
-- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: RhZWmt39pvXjzVMJ, udp: true}
-- {name: 🇺🇸 vip1 美国-01 - FastFly, server: gcdddd0001.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 5e9e0761-e4c7-4f99-bfda-7784fef20489, udp: true}
-- {name: 🇺🇸 vip1 美国-02 - FastFly, server: gcdddd0003.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 5e9e0761-e4c7-4f99-bfda-7784fef20489, udp: true}
-- {name: 🇺🇸 vip1 美国-03 - FastFly, server: gcdddd0005.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 5e9e0761-e4c7-4f99-bfda-7784fef20489, udp: true}
-- {name: 🇺🇸 vip1 美国-06 - FastFly, server: gcdddd0001.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 5e9e0761-e4c7-4f99-bfda-7784fef20489, udp: true}
-- {name: 🇺🇸 vip1 美国-07 - FastFly, server: gcdddd0003.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 5e9e0761-e4c7-4f99-bfda-7784fef20489, udp: true}
-- {name: 🇺🇸 vip1 美国-08 - FastFly, server: gcdddd0005.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 5e9e0761-e4c7-4f99-bfda-7784fef20489, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gcdddd0001.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 5e9e0761-e4c7-4f99-bfda-7784fef20489, udp: true}
-- {name: 🇺🇸 vip1 美国-12 - FastFly, server: gcdddd0003.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 5e9e0761-e4c7-4f99-bfda-7784fef20489, udp: true}
-- {name: 🇺🇸 vip1 美国-13 - FastFly, server: gcdddd0005.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 5e9e0761-e4c7-4f99-bfda-7784fef20489, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: QcxOGfQ8UQkUDOrg, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: QcxOGfQ8UQkUDOrg, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: QcxOGfQ8UQkUDOrg, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: QcxOGfQ8UQkUDOrg, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: QcxOGfQ8UQkUDOrg, udp: true}
+- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: QcxOGfQ8UQkUDOrg, udp: true}
+- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: QcxOGfQ8UQkUDOrg, udp: true}
+- {name: 🇺🇸 vip1 美国-01 - FastFly, server: gcdddd0001.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
+- {name: 🇺🇸 vip1 美国-02 - FastFly, server: gcdddd0003.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
+- {name: 🇺🇸 vip1 美国-03 - FastFly, server: gcdddd0005.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
+- {name: 🇺🇸 vip1 美国-06 - FastFly, server: gcdddd0001.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
+- {name: 🇺🇸 vip1 美国-07 - FastFly, server: gcdddd0003.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
+- {name: 🇺🇸 vip1 美国-08 - FastFly, server: gcdddd0005.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
+- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gcdddd0001.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
+- {name: 🇺🇸 vip1 美国-12 - FastFly, server: gcdddd0003.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
+- {name: 🇺🇸 vip1 美国-13 - FastFly, server: gcdddd0005.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
 - {name: 🇺🇸 美国 洛杉矶｜隧道 01 - 爱猫论坛, server: sahng7.594888.xyz, port: 36014, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 洛杉矶｜隧道 02 - 爱猫论坛, server: sahng3.594888.xyz, port: 36015, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 直连1 - 爱猫论坛, server: maous1.wzgmail.com, port: 443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: maous1.wzgmail.com}}, udp: true}
@@ -128,8 +128,8 @@ proxies:
 - {name: 🇺🇸 美国 03 - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇺🇸 美国 04 - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇺🇸 美国 05 - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: afb42a9d-6f93-37b2-96ff-a59072afeddf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: afb42a9d-6f93-37b2-96ff-a59072afeddf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: a30e61d9-98d3-354c-85b6-761017f3862b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: a30e61d9-98d3-354c-85b6-761017f3862b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 1.76po.com, port: 16325, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-02 | 2X - 凌云网络, server: 1.76po.com, port: 23390, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 1.76po.com, port: 15014, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
