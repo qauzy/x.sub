@@ -12,18 +12,18 @@ proxies:
 - {name: 🇭🇰 Video 香港C-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9052, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: a641c89757.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 912, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: a641c89757.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港II-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 840, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: a641c89757.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 25974, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 25974, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 25974, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港04【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 35257, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港05【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 35257, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港06【vip1】 - JCBB, server: gcdddd0002.likeone.lol, port: 35257, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港 07【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 26023, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港 08【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 26023, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港 09【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 26023, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港10【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 15485, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港12【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 15485, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港13【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 15485, type: trojan, password: 1491ee1b-7ac6-41d7-abd2-d5033bbdd45b, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 25974, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 25974, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 25974, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港04【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 35257, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港05【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 35257, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港06【vip1】 - JCBB, server: gcdddd0002.likeone.lol, port: 35257, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 07【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 26023, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 08【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 26023, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 09【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 26023, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港10【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 15485, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港12【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 15485, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港13【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 15485, type: trojan, password: 41711c2b-a900-44f1-b2fc-edf1b0bfa1db, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 01 - V2Link VPN, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 02 - V2Link VPN, server: host-002.crazyspeed.xyz, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 03 - V2Link VPN, server: host-003.crazyspeed.xyz, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
@@ -34,8 +34,8 @@ proxies:
 - {name: 🇭🇰 香港 08 - V2Link VPN, server: host-008.crazyspeed.xyz, port: 30508, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 09 - V2Link VPN, server: host-009.crazyspeed.xyz, port: 30509, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 10 - V2Link VPN, server: host-010.crazyspeed.xyz, port: 30510, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 87a8cd0c-a0a7-3396-983b-129fcd269e77, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 87a8cd0c-a0a7-3396-983b-129fcd269e77, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 0f2ef8f2-6c3b-3e4f-887d-61ba8af74ec8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 0f2ef8f2-6c3b-3e4f-887d-61ba8af74ec8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: gcdddd0001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
 - {name: 🇭🇰 vip1 香港-02 - FastFly, server: gcdddd0003.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
 - {name: 🇭🇰 vip1 香港-03 - FastFly, server: gcdddd0005.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: dd0b39d7-61e3-4dcb-80d7-96751b2b233c, udp: true}
@@ -152,11 +152,11 @@ proxies:
 - {name: 🇭🇰 【O】香港 普通 7 - Leaseweb - SockBoom, server: opt17.boom.skin, port: 27000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025036:boxQe1, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 【O】香港 普通 8 - Leaseweb - SockBoom, server: opt18.boom.skin, port: 28000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025036:boxQe1, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom, server: opt19.boom.skin, port: 29000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025036:boxQe1, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港01  - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: pMMdMtBb0rhqGqQG, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: pMMdMtBb0rhqGqQG, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: pMMdMtBb0rhqGqQG, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: pMMdMtBb0rhqGqQG, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: gz.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: pMMdMtBb0rhqGqQG, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: pMMdMtBb0rhqGqQG, udp: true}
-- {name: 🇭🇰 香港07 - Cyanmori, server: gz.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: pMMdMtBb0rhqGqQG, udp: true}
-- {name: 🇭🇰 香港08 - Cyanmori, server: gz.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: pMMdMtBb0rhqGqQG, udp: true}
+- {name: 🇭🇰 香港01  - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: RhXwI0rz0Q7vtvCH, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: RhXwI0rz0Q7vtvCH, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: RhXwI0rz0Q7vtvCH, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: RhXwI0rz0Q7vtvCH, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: gz.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: RhXwI0rz0Q7vtvCH, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: RhXwI0rz0Q7vtvCH, udp: true}
+- {name: 🇭🇰 香港07 - Cyanmori, server: gz.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: RhXwI0rz0Q7vtvCH, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: gz.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: RhXwI0rz0Q7vtvCH, udp: true}
