@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: QzRNvQU796yJhh8Q, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: QzRNvQU796yJhh8Q, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: QzRNvQU796yJhh8Q, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: QzRNvQU796yJhh8Q, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: QzRNvQU796yJhh8Q, udp: true}
-- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: QzRNvQU796yJhh8Q, udp: true}
-- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: QzRNvQU796yJhh8Q, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: X9thcJKJ1F4BupJH, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: X9thcJKJ1F4BupJH, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: X9thcJKJ1F4BupJH, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: X9thcJKJ1F4BupJH, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: X9thcJKJ1F4BupJH, udp: true}
+- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: X9thcJKJ1F4BupJH, udp: true}
+- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: X9thcJKJ1F4BupJH, udp: true}
 - {name: 🇺🇸 vip1 美国-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 268f6c97-28fd-4c25-9606-3cb6fcefdfe7, udp: true}
 - {name: 🇺🇸 vip1 美国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 268f6c97-28fd-4c25-9606-3cb6fcefdfe7, udp: true}
 - {name: 🇺🇸 vip1 美国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 268f6c97-28fd-4c25-9606-3cb6fcefdfe7, udp: true}
@@ -93,8 +93,8 @@ proxies:
 - {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 26681, type: trojan, password: 3d772c58-10b9-45f1-a9f9-90da76e7b6bc, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 26681, type: trojan, password: 3d772c58-10b9-45f1-a9f9-90da76e7b6bc, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 26681, type: trojan, password: 3d772c58-10b9-45f1-a9f9-90da76e7b6bc, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11002, type: ss, cipher: chacha20-ietf-poly1305, password: d23f3bdd-a8d6-43eb-9ecd-fef4d71af8bd, udp: true}
-- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11303, type: trojan, password: d23f3bdd-a8d6-43eb-9ecd-fef4d71af8bd, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11002, type: ss, cipher: chacha20-ietf-poly1305, password: 88c1a7db-2fd4-4513-8465-e61d1837a066, udp: true}
+- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11303, type: trojan, password: 88c1a7db-2fd4-4513-8465-e61d1837a066, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 v2ray 美国俄勒冈节点VIP 581 - 紫云VPN服务商, server: 104.20.67.86, port: 443, type: vmess, uuid: d73af5ab-0899-3f71-896c-8e43fc732d7b, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: elg.997755.xyz}}, udp: true}
 - {name: 🇺🇸 v2ray 美国俄勒冈节点VIP CDN - 紫云VPN服务商, server: elg.997755.xyz, port: 443, type: vmess, uuid: d73af5ab-0899-3f71-896c-8e43fc732d7b, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: elg.997755.xyz}}, udp: true}
 - {name: 🇺🇸 v2ray 美国凤凰城节点VIP 556 - 紫云VPN服务商, server: 104.19.26.183, port: 443, type: vmess, uuid: d73af5ab-0899-3f71-896c-8e43fc732d7b, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: fhc.997755.xyz}}, udp: true}
