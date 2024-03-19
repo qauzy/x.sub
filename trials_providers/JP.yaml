@@ -4,10 +4,10 @@ proxies:
 - {name: 🇯🇵 Oracle-JP3-20240117 - Kangaroo✦Network, server: jp3.pay.edu.kg, port: 443, type: vmess, uuid: c0c8ddad-b595-430f-9b04-17464b56febf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.pay.edu.kg}}, udp: true}
 - {name: 🇯🇵 Oracle-JP4-20240117 - Kangaroo✦Network, server: jp4.pay.edu.kg, port: 443, type: vmess, uuid: c0c8ddad-b595-430f-9b04-17464b56febf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.pay.edu.kg}}, udp: true}
 - {name: 🇯🇵 Oracle-JP5-20240117 - Kangaroo✦Network, server: jp5.pay.edu.kg, port: 443, type: vmess, uuid: c0c8ddad-b595-430f-9b04-17464b56febf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.pay.edu.kg}}, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: bcc.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: SYR0kGQyDbhD8BLe, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: SYR0kGQyDbhD8BLe, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: SYR0kGQyDbhD8BLe, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: bcc.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: SYR0kGQyDbhD8BLe, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: bcc.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: JApTFWXxOB3DhMBq, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: JApTFWXxOB3DhMBq, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: JApTFWXxOB3DhMBq, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: bcc.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: JApTFWXxOB3DhMBq, udp: true}
 - {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 4935bcd6-1b49-4a0d-b861-83aa8475bfd7, udp: true}
 - {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 4935bcd6-1b49-4a0d-b861-83aa8475bfd7, udp: true}
 - {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 4935bcd6-1b49-4a0d-b861-83aa8475bfd7, udp: true}

@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: SYR0kGQyDbhD8BLe, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: SYR0kGQyDbhD8BLe, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: SYR0kGQyDbhD8BLe, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: bcc.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: SYR0kGQyDbhD8BLe, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: JApTFWXxOB3DhMBq, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: JApTFWXxOB3DhMBq, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: JApTFWXxOB3DhMBq, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: bcc.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: JApTFWXxOB3DhMBq, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 4935bcd6-1b49-4a0d-b861-83aa8475bfd7, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 4935bcd6-1b49-4a0d-b861-83aa8475bfd7, udp: true}
 - {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 4935bcd6-1b49-4a0d-b861-83aa8475bfd7, udp: true}
