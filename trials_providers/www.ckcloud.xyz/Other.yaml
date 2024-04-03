@@ -1,18 +1,18 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 16343, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 16343, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 16343, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度01【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 26094, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度02【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 26094, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度03【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 26094, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国01【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 42840, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国02【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 42840, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国03【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 42840, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 53279, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国02【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 53279, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国03【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 53279, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 60293, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 60293, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 60293, type: trojan, password: 17eccbef-33f6-4a17-93b1-ff30781aba85, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 16343, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 16343, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 16343, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 JCBB_ 印度01【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 26094, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 JCBB_ 印度02【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 26094, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 JCBB_ 印度03【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 26094, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 JCBB_ 英国01【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 42840, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 JCBB_ 英国02【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 42840, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 JCBB_ 英国03【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 42840, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 53279, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 JCBB_德国02【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 53279, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 JCBB_德国03【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 53279, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 60293, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 60293, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 60293, type: trojan, password: 2211c73d-73d5-4e28-a013-d069e30c0cea, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
