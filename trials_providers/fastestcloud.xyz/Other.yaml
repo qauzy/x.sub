@@ -3,9 +3,9 @@
 proxies:
 - {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 53109151-4fae-476a-a5eb-3c970b09ee17, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 53109151-4fae-476a-a5eb-3c970b09ee17, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇲🇾 vip1 马来西亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25881, type: ss, cipher: chacha20-ietf-poly1305, password: 53109151-4fae-476a-a5eb-3c970b09ee17, udp: true}
-- {name: 🇲🇾 vip1 马来西亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25881, type: ss, cipher: chacha20-ietf-poly1305, password: 53109151-4fae-476a-a5eb-3c970b09ee17, udp: true}
-- {name: 🇲🇾 vip1 马来西亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25881, type: ss, cipher: chacha20-ietf-poly1305, password: 53109151-4fae-476a-a5eb-3c970b09ee17, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: 53109151-4fae-476a-a5eb-3c970b09ee17, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: 53109151-4fae-476a-a5eb-3c970b09ee17, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: 53109151-4fae-476a-a5eb-3c970b09ee17, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: 53109151-4fae-476a-a5eb-3c970b09ee17, udp: true}
 - {name: 🇻🇳 vip1 越南-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: 53109151-4fae-476a-a5eb-3c970b09ee17, udp: true}
 - {name: 🇻🇳 vip1 越南-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: 53109151-4fae-476a-a5eb-3c970b09ee17, udp: true}
