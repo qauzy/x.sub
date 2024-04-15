@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 41370fd3-918f-3003-8b9d-94a5487a93f1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 15b8e167-ad9f-3078-828e-57dc93ad4ca2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
