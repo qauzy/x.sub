@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 07333848-4f07-4c07-a09a-51ff6a62d2da, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 07333848-4f07-4c07-a09a-51ff6a62d2da, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 07333848-4f07-4c07-a09a-51ff6a62d2da, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 07333848-4f07-4c07-a09a-51ff6a62d2da, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 07333848-4f07-4c07-a09a-51ff6a62d2da, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 07333848-4f07-4c07-a09a-51ff6a62d2da, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: ce702b4a-fae1-492d-ab1b-cbf07da94ac2, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: ce702b4a-fae1-492d-ab1b-cbf07da94ac2, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: ce702b4a-fae1-492d-ab1b-cbf07da94ac2, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: ce702b4a-fae1-492d-ab1b-cbf07da94ac2, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: ce702b4a-fae1-492d-ab1b-cbf07da94ac2, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: ce702b4a-fae1-492d-ab1b-cbf07da94ac2, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
