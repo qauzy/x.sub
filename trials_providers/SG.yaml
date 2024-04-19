@@ -3,12 +3,12 @@
 proxies:
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 4afa68d1-42a4-3f35-aad8-8fab5c666a57, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 4afa68d1-42a4-3f35-aad8-8fab5c666a57, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 1f669645-4a37-4fdc-acc6-70bf99e4d637, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 1f669645-4a37-4fdc-acc6-70bf99e4d637, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 1f669645-4a37-4fdc-acc6-70bf99e4d637, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 1f669645-4a37-4fdc-acc6-70bf99e4d637, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 1f669645-4a37-4fdc-acc6-70bf99e4d637, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 1f669645-4a37-4fdc-acc6-70bf99e4d637, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: f7f51a68-100b-4a89-abe8-f48059f28e94, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: f7f51a68-100b-4a89-abe8-f48059f28e94, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: f7f51a68-100b-4a89-abe8-f48059f28e94, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: f7f51a68-100b-4a89-abe8-f48059f28e94, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: f7f51a68-100b-4a89-abe8-f48059f28e94, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: f7f51a68-100b-4a89-abe8-f48059f28e94, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 01 - V2Link VPN, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇸🇬 新加坡 02 - V2Link VPN, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇸🇬 新加坡 03 - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
