@@ -168,5 +168,5 @@ proxies:
 - {name: 🇭🇰 JCBB_香港10【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 15485, type: trojan, password: a3714d03-f1d5-4f45-9ced-792a176ff395, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港12【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 15485, type: trojan, password: a3714d03-f1d5-4f45-9ced-792a176ff395, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港13【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 15485, type: trojan, password: a3714d03-f1d5-4f45-9ced-792a176ff395, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: eec08e9c-4174-3751-9b53-698d4be6d89a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: eec08e9c-4174-3751-9b53-698d4be6d89a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 540fd563-1d2c-30a1-8c86-70bbdc5ff3c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 540fd563-1d2c-30a1-8c86-70bbdc5ff3c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
