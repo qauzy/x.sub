@@ -1,7 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: 3e80c9a2-5e6d-46c4-a233-e1bc08c7279b, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: 3e80c9a2-5e6d-46c4-a233-e1bc08c7279b, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: 3e80c9a2-5e6d-46c4-a233-e1bc08c7279b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: 3e80c9a2-5e6d-46c4-a233-e1bc08c7279b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: 03885547-fb57-4a58-a127-2b2ced45b455, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: 03885547-fb57-4a58-a127-2b2ced45b455, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-03 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 65032, type: trojan, password: 03885547-fb57-4a58-a127-2b2ced45b455, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: 03885547-fb57-4a58-a127-2b2ced45b455, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: 03885547-fb57-4a58-a127-2b2ced45b455, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}

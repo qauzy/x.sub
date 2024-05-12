@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: 3e80c9a2-5e6d-46c4-a233-e1bc08c7279b, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: 3e80c9a2-5e6d-46c4-a233-e1bc08c7279b, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 40276, type: trojan, password: 3e80c9a2-5e6d-46c4-a233-e1bc08c7279b, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 40276, type: trojan, password: 3e80c9a2-5e6d-46c4-a233-e1bc08c7279b, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: 03885547-fb57-4a58-a127-2b2ced45b455, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: 03885547-fb57-4a58-a127-2b2ced45b455, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 40276, type: trojan, password: 03885547-fb57-4a58-a127-2b2ced45b455, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 40276, type: trojan, password: 03885547-fb57-4a58-a127-2b2ced45b455, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
