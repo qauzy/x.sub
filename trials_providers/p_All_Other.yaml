@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: f62701f9-49f4-4ef6-94c1-83cff7e4e276, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: f62701f9-49f4-4ef6-94c1-83cff7e4e276, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: f62701f9-49f4-4ef6-94c1-83cff7e4e276, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 08e4cabb-82d3-4e5c-ba9b-061862cc4df4, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 08e4cabb-82d3-4e5c-ba9b-061862cc4df4, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 08e4cabb-82d3-4e5c-ba9b-061862cc4df4, udp: true}
 - {name: v2ray 中东巴林节点VIP 671 - 紫云VPN服务商, server: 172.64.195.161, port: 443, type: vmess, uuid: d73af5ab-0899-3f71-896c-8e43fc732d7b, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: bla.369777.xyz}}, udp: true}
 - {name: v2ray 中东巴林节点VIP CDN - 紫云VPN服务商, server: bla.369777.xyz, port: 443, type: vmess, uuid: d73af5ab-0899-3f71-896c-8e43fc732d7b, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: bla.369777.xyz}}, udp: true}
 - {name: 🇿🇦 v2ray 南非开普敦节点VIP 720 - 紫云VPN服务商, server: 104.17.17.103, port: 443, type: vmess, uuid: d73af5ab-0899-3f71-896c-8e43fc732d7b, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: kpd.369777.xyz}}, udp: true}
@@ -123,11 +123,11 @@ proxies:
 - {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: f914293407.download.windowsupdate.com}, udp: true}
 - {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: f914293407.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: f914293407.download.windowsupdate.com}, udp: true}
-- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: da2ca4e9-6951-34c6-9d55-671404a3500d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: da2ca4e9-6951-34c6-9d55-671404a3500d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: da2ca4e9-6951-34c6-9d55-671404a3500d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: da2ca4e9-6951-34c6-9d55-671404a3500d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: da2ca4e9-6951-34c6-9d55-671404a3500d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: cb4bfd80-dfdb-385f-be1c-8ee49ebdbbbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: cb4bfd80-dfdb-385f-be1c-8ee49ebdbbbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: cb4bfd80-dfdb-385f-be1c-8ee49ebdbbbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: cb4bfd80-dfdb-385f-be1c-8ee49ebdbbbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: cb4bfd80-dfdb-385f-be1c-8ee49ebdbbbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: 92cfe3ee-6761-35d2-a9ff-7b856f14e2b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度01 - Cyanmori, server: in1.lvuy.xyz, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: RhP99Teh70Y9P9hF, udp: true}
 - {name: 🇮🇳 印度02 - Cyanmori, server: in2.lvuy.xyz, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: RhP99Teh70Y9P9hF, udp: true}
