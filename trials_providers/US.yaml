@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: df0d166f-0358-388f-bc76-f81d6b8d56f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: df0d166f-0358-388f-bc76-f81d6b8d56f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: 4eafe0c9-494b-3243-ac1d-e8c4e7a66d66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: 4eafe0c9-494b-3243-ac1d-e8c4e7a66d66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国隧道1-NF-TK-GPT - giao云, server: gz.888898.beauty, port: 29731, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1001us.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国隧道2-NF-TK-GPT - giao云, server: js2.76po.com, port: 35522, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1001us02.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 3PPkzminP6pgNJdS, udp: true}
@@ -132,8 +132,8 @@ proxies:
 - {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 26681, type: trojan, password: a3714d03-f1d5-4f45-9ced-792a176ff395, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 26681, type: trojan, password: a3714d03-f1d5-4f45-9ced-792a176ff395, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: fb03c213-6437-4603-9ff7-774598e59108, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 158a118b-bd34-3676-9b2c-1ecf545476e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 158a118b-bd34-3676-9b2c-1ecf545476e9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: c33869bc-99a1-3b94-8d84-6fc52326b6ce, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: c33869bc-99a1-3b94-8d84-6fc52326b6ce, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
 - {name: 🇺🇸 【C】美国 普通 1 - CC - SockBoom, server: us1.edge.boom.skin, port: 40000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025036:boxQe1, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 2 - CC - SockBoom, server: us2.edge.boom.skin, port: 41000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025036:boxQe1, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 3 - CC - SockBoom, server: us3.edge.boom.skin, port: 42001, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025036:boxQe1, obfs-param: download.windowsupdate.com, udp: true}
