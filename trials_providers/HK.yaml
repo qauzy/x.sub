@@ -73,8 +73,8 @@ proxies:
 - {name: 🇭🇰 vip1 香港-16 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 22704, type: trojan, password: 2a480dff-f915-4439-8fa9-d990fe8e5225, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-17 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 22704, type: trojan, password: 2a480dff-f915-4439-8fa9-d990fe8e5225, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-16 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 62690, type: vmess, uuid: 2a480dff-f915-4439-8fa9-d990fe8e5225, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19811, type: vmess, uuid: 8fc79852-6bdc-345f-a65a-17024b8284a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19812, type: vmess, uuid: 8fc79852-6bdc-345f-a65a-17024b8284a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19811, type: vmess, uuid: 21d6e2e4-f514-3cd7-817e-c0b30927b079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19812, type: vmess, uuid: 21d6e2e4-f514-3cd7-817e-c0b30927b079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: b8gtj2hqmmucuf1m, udp: true}
 - {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: b8gtj2hqmmucuf1m, udp: true}
 - {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: b8gtj2hqmmucuf1m, udp: true}
