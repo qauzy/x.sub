@@ -2304,9 +2304,9 @@ proxies:
 - {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 48b735e5-5089-3b57-bc6c-2f0eb8fea46d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 48b735e5-5089-3b57-bc6c-2f0eb8fea46d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 48b735e5-5089-3b57-bc6c-2f0eb8fea46d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 7e60e732-a204-44ba-aac4-9f01db9e9f5d, udp: true}
-- {name: 🇱🇦 请登录66.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 7e60e732-a204-44ba-aac4-9f01db9e9f5d, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 7e60e732-a204-44ba-aac4-9f01db9e9f5d, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 768f2fd2-0111-4ffc-95fa-59e2256f3c52, udp: true}
+- {name: 🇱🇦 请登录66.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 768f2fd2-0111-4ffc-95fa-59e2256f3c52, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 768f2fd2-0111-4ffc-95fa-59e2256f3c52, udp: true}
 - {name: 🇭🇰 香港 01 - V2Link VPN, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 02 - V2Link VPN, server: host-002.crazyspeed.xyz, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 03 - V2Link VPN, server: host-003.crazyspeed.xyz, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
@@ -2754,7 +2754,6 @@ rules:
 - DOMAIN-SUFFIX,rtbasia.com,💩 ‍广告
 - DOMAIN-SUFFIX,sanya1.com,💩 ‍广告
 - DOMAIN-SUFFIX,scupio.com,💩 ‍广告
-- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuiguo.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuzilm.cn,💩 ‍广告
 - DOMAIN-SUFFIX,similarweb.com,💩 ‍广告
@@ -2822,6 +2821,7 @@ rules:
 - DOMAIN-SUFFIX,wqmobile.com,💩 ‍广告
 - DOMAIN-SUFFIX,wrating.com,💩 ‍广告
 - DOMAIN-SUFFIX,wumii.cn,💩 ‍广告
+- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,xcy8.com,💩 ‍广告
 - DOMAIN-SUFFIX,xdrig.com,💩 ‍广告
 - DOMAIN-SUFFIX,xiaozhen.com,💩 ‍广告
@@ -2855,7 +2855,6 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
-- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -2979,6 +2978,7 @@ rules:
 - DOMAIN-SUFFIX,sape.ru,💩 ‍广告
 - DOMAIN-SUFFIX,scorecardresearch.com,💩 ‍广告
 - DOMAIN-SUFFIX,segment.com,💩 ‍广告
+- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,sharethis.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.net,💩 ‍广告
@@ -4294,6 +4294,7 @@ rules:
 - DOMAIN-SUFFIX,accountkit.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,aceros-de-hispania.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,acevpn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,acg.rip,✈️ ‍起飞
 - DOMAIN-SUFFIX,acg18.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,acgbox.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,acgkj.com,✈️ ‍起飞
@@ -6824,6 +6825,7 @@ rules:
 - DOMAIN-SUFFIX,middle-way.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,mihr.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mihua.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,mikanani.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,mikesoltys.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mikocon.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,milph.net,✈️ ‍起飞
@@ -9267,6 +9269,7 @@ rules:
 - IP-CIDR,220.181.174.226/32,✈️ ‍起飞,no-resolve
 - IP-CIDR,220.181.174.34/32,✈️ ‍起飞,no-resolve
 - DOMAIN-SUFFIX,instagr.am,✈️ ‍起飞
+- DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,kakaocdn.net,✈️ ‍起飞
 - IP-CIDR,1.201.0.0/24,✈️ ‍起飞,no-resolve
 - IP-CIDR,27.0.236.0/22,✈️ ‍起飞,no-resolve
