@@ -2128,7 +2128,6 @@ rules:
 - DOMAIN-SUFFIX,accountkit.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,aceros-de-hispania.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,acevpn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,acg.rip,✈️ ‍起飞
 - DOMAIN-SUFFIX,acg18.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,acgbox.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,acgkj.com,✈️ ‍起飞
@@ -2362,6 +2361,7 @@ rules:
 - DOMAIN-SUFFIX,axureformac.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerbaycan.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerimix.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,azirevpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azubu.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azurewebsites.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,b-ok.cc,✈️ ‍起飞
@@ -2522,6 +2522,7 @@ rules:
 - DOMAIN-SUFFIX,blubrry.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,blueangellive.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bmfinn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bnbstatic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnews.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnn.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnrmetal.com,✈️ ‍起飞
@@ -2845,6 +2846,7 @@ rules:
 - DOMAIN-SUFFIX,clubhouseapi.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,clyp.it,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmcn.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,cmegroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmoinc.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,cms.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmu.edu,✈️ ‍起飞
@@ -4099,6 +4101,7 @@ rules:
 - DOMAIN-SUFFIX,imageab.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagefap.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imageflea.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,imageglass.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,images-gaytube.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagevenue.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagezilla.net,✈️ ‍起飞
@@ -4204,6 +4207,7 @@ rules:
 - DOMAIN-SUFFIX,ivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iverycd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ivpn.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixquick.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixxx.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iyouport.com,✈️ ‍起飞
@@ -4659,7 +4663,6 @@ rules:
 - DOMAIN-SUFFIX,middle-way.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,mihr.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mihua.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,mikanani.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,mikesoltys.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mikocon.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,milph.net,✈️ ‍起飞
@@ -5202,6 +5205,7 @@ rules:
 - DOMAIN-SUFFIX,perfect-privacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,perfectgirls.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,periscope.tv,✈️ ‍起飞
+- DOMAIN-SUFFIX,perplexity.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,persecutionblog.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,persiankitty.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phapluan.org,✈️ ‍起飞
@@ -5865,6 +5869,7 @@ rules:
 - DOMAIN-SUFFIX,stoptibetcrisis.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,storagenewsletter.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,storify.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,storj.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,storm.mg,✈️ ‍起飞
 - DOMAIN-SUFFIX,stormmediagroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,stoweboyd.com,✈️ ‍起飞
@@ -6151,6 +6156,7 @@ rules:
 - DOMAIN-SUFFIX,tibetswiss.ch,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettelegraph.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettimes.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,tibettruth.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibetwrites.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,tigervpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tiktok.com,✈️ ‍起飞
@@ -6430,7 +6436,7 @@ rules:
 - DOMAIN-SUFFIX,urlparser.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,us.to,✈️ ‍起飞
 - DOMAIN-SUFFIX,usacn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,usc.edu,✈️ ‍起飞
+- DOMAIN-SUFFIX,uscardforum.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,uscnpm.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,usembassy.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,usfk.mil,✈️ ‍起飞
@@ -7103,7 +7109,6 @@ rules:
 - IP-CIDR,220.181.174.226/32,✈️ ‍起飞,no-resolve
 - IP-CIDR,220.181.174.34/32,✈️ ‍起飞,no-resolve
 - DOMAIN-SUFFIX,instagr.am,✈️ ‍起飞
-- DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,kakaocdn.net,✈️ ‍起飞
 - IP-CIDR,1.201.0.0/24,✈️ ‍起飞,no-resolve
 - IP-CIDR,27.0.236.0/22,✈️ ‍起飞,no-resolve
@@ -7605,6 +7610,7 @@ rules:
 - DOMAIN-SUFFIX,kaola.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,knewone.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koowo.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,koyso.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ksyungslb.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kuaidi100.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kugou.com,🛩️ ‍墙内
